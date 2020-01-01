@@ -5,4 +5,4 @@ First of all just copy all the image to be convert in "images" folder
 
 Run main.py file
 
-and hurray the immages will be saved sutomatically in the new folder named "converted_images" 
+and hurray the images will be saved automatically in the new folder named "converted_images" 
